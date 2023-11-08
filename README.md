@@ -20,11 +20,11 @@ Sigue las instrucciones de instalación proporcionadas en el sitio web de Dev-C+
 
 Una vez que tengas `Dev-C++` instalado, puedes abrir el archivo "grafo.c" en el IDE. Luego, sigue estos pasos para compilar el código:
 
-- Abre el archivo "grafo.c" en `Dev-C++`.
+- Abre el archivo "Visualizar grafo.c" en `Dev-C++`.
 - Haz clic en **Compilar** en la barra de herramientas o utiliza la tecla F9.
 ## Ejecución
 
-Después de compilar con éxito, puedes ejecutar el programa haciendo clic en **Ejecutar** en `Dev-C++` o simplemente ejecutando el archivo "grafo.exe" generado.
+Después de compilar con éxito, puedes ejecutar el programa haciendo clic en **Ejecutar** en `Dev-C++` o simplemente ejecutando el archivo "Visualizar grafo.exe" generado.
 ## Funcionamiento
 
 El código implementa un grafo no dirigido utilizando matrices de adyacencia para representar las conexiones entre vértices. Puedes realizar las siguientes operaciones:
